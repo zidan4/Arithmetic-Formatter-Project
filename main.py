@@ -51,4 +51,4 @@ def arithmetic_arranger(problems, display_answers=False):
     if display_answers:
         arranged.append('    '.join(result_lines))
 
-    return '\n'.join(arranged)
+    return '\n'.join(arranged) 
